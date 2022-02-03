@@ -1,0 +1,31 @@
+# Do not store hidden files and directories, inclding .idea project
+.*
+
+# Do not store anything starting with _
+_*
+
+# Do not store .class files
+*.class
+*.iml
+*Test.jar
+*.jar
+*Test.java
+*Tester.java
+
+# Tests and GK files
+base
+out
+Expression.java
+BigDecimalExpression.java
+BigIntegerExpression.java
+ToMiniString.java
+TripleExpression.java
+sum
+reverse
+wordStat
+wspp
+common
+Operations.java
+package-info.java
+
+Op.java
